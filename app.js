@@ -1,4 +1,6 @@
-console.log("hello world");
+import { log } from "./helpers/functions.js"
+
+log("Nigga")
 
 if(true === true){
     console.log("Condition is true");
